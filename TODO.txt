@@ -1,0 +1,42 @@
+1. add check on schedules(airplane_id)(airline_id)
+
+2. add data to PNR on signup
+
+3. check if seat free in classX
+
+4. fetch price of ticket
+
+5. admin -controls  - see lists countries,airports,airlines,aeroplanes,segments,flights,schedules
+
+6. admin -controls  - add countries,airports,airlines,aeroplanes,segments,flights,schedules, agents
+
+8. admin -see flight list with empty seat no, 
+
+9. admin - see single customer details - all flights
+
+10. issue PNL - per flight - all passenger list, no of seats, 
+
+11. issue boarding pass to passengers
+
+12. selling tickets by agent
+
+13. fix search.inc.php file name - it's not really in includes folder
+
+14. add data to passengers + add data on signup --- also add full name data
+
+15. hide planes that have left, completed journey
+
+16. passenger - show my tickets - old and new
+
+17. passenger/customer used interchangeabley -- maybe rename to one
+
+13. edit webpage title and image
+
+14. combine flightdetails.passenger.php and flightdetails.admin.php into one file -> 
+	check against SESSIONS(customer/admin)
+
+15. combine flightlist.admin with normal search flight
+
+16. make admin terminal with output box
+
+17. No. of tickets bought bug
